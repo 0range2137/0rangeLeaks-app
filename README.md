@@ -18,11 +18,6 @@
 
 > ⚠️ **Wymaga Windowsa.**
 
----
-
-## 🌐 Dane są ładowane z:
-
-🔗 [OrangeLeaks-data](https://github.com/0range2137/0rangeLeaks-data)
 
 ---
 
