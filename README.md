@@ -10,10 +10,11 @@
 
 ## 📥 Jak pobrać i uruchomić?
 
-1. Wejdź w [Releases](https://github.com/Orange2137/OrangeLeaks-app/releases)
-2. Pobierz `OrangeLeaks.exe`
-3. Uruchom aplikację
-4. Wpisz nick gracza → zobacz IP i serwer
+1. Wejdź w [Releases](github.com/0range2137/0rangeLeaks-app/releases)
+2. Pobierz `OrangeLeaks.zip`
+3. Rozpakuj plik .zip
+4. Uruchom aplikację
+5. Wpisz nick gracza → zobacz IP i serwer
 
 > ⚠️ **Wymaga Windowsa.**
 
