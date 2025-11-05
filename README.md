@@ -46,4 +46,4 @@
 
 ## 📜 Licencja
 
-MIT License — szczegóły w pliku [LICENSE](LICENSE).
+MIT License — szczegóły w pliku [LICENSE](https://github.com/0range2137/0rangeLeaks-app/blob/main/LICENSE.txt).
